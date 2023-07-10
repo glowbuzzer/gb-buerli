@@ -1,0 +1,45 @@
+{
+    "name": "gb-buerli",
+    "version": "0.0.0",
+    "private": true,
+    "description": "A buerli/glowbuzzer app",
+    "license": "MIT",
+    "engines": {
+        "node": ">=16"
+    },
+    "scripts": {
+        "start": "vite",
+        "build": "vite build"
+    },
+    "bugs": {
+        "url": "https://github.com/glowbuzzer/gbr/issues"
+    },
+    "dependencies": {
+        "@babel/core": "^7",
+        "@buerli.io/classcad": "^0.8.0",
+        "@buerli.io/core": "^0.8.0",
+        "@buerli.io/headless": "^0.8.0",
+        "@buerli.io/react": "^0.8.0",
+        "@glowbuzzer/controls": "1.8.1",
+        "@glowbuzzer/store": "1.8.1",
+        "@react-three/drei": "^9.78.1",
+        "@react-three/fiber": "^8.13.4",
+        "@types/node": "^18.16.16",
+        "@types/react": "^18.2.5",
+        "@types/react-dom": "^18.2.3",
+        "@types/three": "^0.153.0",
+        "@vitejs/plugin-react": "^3.1.0",
+        "antd": "^5.4.7",
+        "dseg": "^0.46.0",
+        "flexlayout-react": "^0.7.7",
+        "prettier": "^3.0.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-is": "^18.2.0",
+        "styled-components": "^6.0.3",
+        "three": "^0.153.0",
+        "three-stdlib": "^2.23.13",
+        "typescript": "^5.1.3",
+        "vite": "^4.3.5"
+    }
+}
