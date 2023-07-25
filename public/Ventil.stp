@@ -1,7 +1,7 @@
 ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('STEP'), '1');
-FILE_NAME('Part 2', '2020-04-16T09:24:04', (''), (''), 'Express v3.0.0.0', 'Express Tool', 'Unknown');
+FILE_NAME('Part 2', '2020-04-16T09:24:04', (''), (''), 'Express v3.0.0.0', 'Express GenericTool', 'Unknown');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN'));
 ENDSEC;
 
